@@ -15,7 +15,7 @@
 
 #### 🛠️ Stack
 
-TypeScript · Python · Next.js · Docker · PostgreSQL · Redis · LLMs · DevOps
+TypeScript · Python · Next.js · Docker · PostgreSQL · Redis · LLMs · DevOps · Rust 
 
 ---
 
@@ -32,5 +32,3 @@ If these tools help you, consider [sponsoring](https://github.com/sponsors/kunci
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ff69b4?logo=github)](https://github.com/sponsors/kunci115)
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunci115&layout=compact)](https://github.com/kunci115)
