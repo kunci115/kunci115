@@ -1,7 +1,7 @@
 ### Rino Alfian 👋
 
 > Building free, MIT-licensed open source tools for developers.
-> Magister of Information Systems, Gunadarma University.
+
 
 ---
 
